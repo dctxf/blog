@@ -366,9 +366,9 @@
     
     <category term="nginx" scheme="https://dctxf.com/tags/nginx/"/>
     
-    <category term="mysql" scheme="https://dctxf.com/tags/mysql/"/>
-    
     <category term="centos" scheme="https://dctxf.com/tags/centos/"/>
+    
+    <category term="mysql" scheme="https://dctxf.com/tags/mysql/"/>
     
     <category term="php" scheme="https://dctxf.com/tags/php/"/>
     
@@ -470,9 +470,9 @@
     
     
     
-    <category term="学习" scheme="https://dctxf.com/tags/%E5%AD%A6%E4%B9%A0/"/>
-    
     <category term="教育" scheme="https://dctxf.com/tags/%E6%95%99%E8%82%B2/"/>
+    
+    <category term="学习" scheme="https://dctxf.com/tags/%E5%AD%A6%E4%B9%A0/"/>
     
   </entry>
   
